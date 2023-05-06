@@ -170,13 +170,13 @@ footer{
 
 .attribution {
     
-    font-size: 1.2rem;
+    font-size: 1rem;
     text-align: center;
 }
   
 .attribution a {
-    color: hsl(228, 45%, 44%);
-    font-size: 1.1rem;
+    color: var(--VeryDarkMagenta);
+    font-size: 1rem;
   }
 
  
@@ -265,16 +265,5 @@ footer{
             padding: 0rem 1rem 0rem 1rem;
 
         }
-
-        .attribution {
-    
-            font-size: 1rem;
-            
-        }
-          
-        .attribution a {
-            
-            font-size: 1rem;
-          }
           
 }
